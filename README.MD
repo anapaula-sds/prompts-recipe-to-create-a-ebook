@@ -21,7 +21,7 @@
 Este projeto teve como objetivo criar um e-book inspirador utilizando ferramentas de Inteligência Artificial para construção do conteúdo, enquanto a diagramação, sensibilidade e curadoria foram conduzidas por mim, Ana Paula Santana.
 O e-book conta histórias emocionantes sobre mulheres da periferia que transformam a tecnologia em caminho, coragem e futuro.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/anapaula-sds/prompts-recipe-to-create-a-ebook" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
