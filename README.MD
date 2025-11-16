@@ -21,7 +21,7 @@
 Este projeto teve como objetivo criar um e-book inspirador utilizando ferramentas de Inteligência Artificial para construção do conteúdo, enquanto a diagramação, sensibilidade e curadoria foram conduzidas por mim, Ana Paula Santana.
 O e-book conta histórias emocionantes sobre mulheres da periferia que transformam a tecnologia em caminho, coragem e futuro.
 
-<a href="https://github.com/anapaula-sds/prompts-recipe-to-create-a-ebook" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/anapaula-sds/prompts-recipe-to-create-a-ebook/blob/main/output/E-Book%20C%C3%B3digo%20que%20transforma.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
